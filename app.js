@@ -5,7 +5,7 @@ console.log(input);
 console.log(buton);
 console.log(test);
 
-const sesli = ["a", "e", "ı", " i", "o", "ö", "u", "ü"];
+const sesli = ["a", "e", "ı", "i", "o", "ö", "u", "ü"];
 
 buton.addEventListener("click", () => {
   let count = 0;
